@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: gilroy;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    
+}
+#main{
+    height: 100%;
+    width: 100%;
+    
+}
+#top{
+    height: 14%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    
+}
+#top h1{
+    color: white;
+    margin-left: 50px;
+}
+#top i{
+    font-size: 50px;
+    font-weight: 500;
+}
+#top h4{
+    margin-right: 20px;
+    color: white;
+    font-size: 20px;
+
+}
+#right{
+    
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 50px;
+    position: absolute;
+    left: 600px;
+}
+#bottom{
+    height: 86%;
+    width: 100%;
+    background-image: url(https://hd2.tudocdn.net/1152047?w=646&h=284);
+    background-size: cover;
+    
+
+}
+#left{
+    height: 500px;
+    width: 500px;
+    
+}
+#left h1{
+    
+    padding-top: 150px;
+    font-size: 50px;
+    padding-left: 10px;
+    color: rgb(226, 216, 216);
+    line-height: 50px;
+    word-spacing: -5px;
+}
+p{
+    
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+    padding-left: 10PX;
+}
+#but button{
+    margin-left: px;
+    margin-top: 50px;
+    font-size: 19px;
+    
+    
+    
+}
+#img1{
+    background-color:white;
+    color:black;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 190px;
+    height: 40px;
+}
+#img2{
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(19, 18, 18);
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    
+
+}
+#but p{
+    
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+    
+
